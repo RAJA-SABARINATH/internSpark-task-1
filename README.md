@@ -1,6 +1,6 @@
-# Cybersecurity Internship Tasks
 
-## Task 1 - Reconnaissance and Vulnerability Scanning
+
+- Reconnaissance and Vulnerability Scanning
 
 Tools Used:
 - Kali Linux
