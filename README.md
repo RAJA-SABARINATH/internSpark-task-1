@@ -1,7 +1,5 @@
 
-
 - Reconnaissance and Vulnerability Scanning
-
 Tools Used:
 - Kali Linux
 - Nmap
