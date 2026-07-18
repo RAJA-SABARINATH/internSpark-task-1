@@ -11,4 +11,4 @@ Target:
 - scanme.nmap.org
 - https://demo.testfire.net
 
-This repository contains reports and screenshots for internship tasks.
+This repository contains reports and screenshots of the scanning
